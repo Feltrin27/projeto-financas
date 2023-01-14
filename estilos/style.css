@@ -161,4 +161,8 @@ h1{
     .card-login{
         width: 90%;
     }
+    
+    header{
+        display: none;
+    }
 }
